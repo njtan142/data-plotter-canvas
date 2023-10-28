@@ -1,0 +1,1 @@
+const GLOBAL_OBJECT_SIZE = 5; //size of the rendered object
